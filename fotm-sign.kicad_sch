@@ -1,0 +1,1984 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "b26ef004-a98e-44f3-9c63-a0d6a8b511d5")
+	(paper "A0")
+	(lib_symbols
+		(symbol "Connector_Generic:Conn_01x03"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x03"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x03_1_1"
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:+5V"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "+5V"
+				(at 0 3.556 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "+5V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+5V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:GND"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "Friends of\nthe moon"
+		(exclude_from_sim no)
+		(at 474.218 432.308 0)
+		(effects
+			(font
+				(face "FreeMono")
+				(size 50.8 50.8)
+			)
+		)
+		(uuid "d6275bc4-7dd1-4a37-8b85-4a97adee0120")
+	)
+	(wire
+		(pts
+			(xy 368.3 266.7) (xy 381 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "012a9699-7e2e-4162-ba94-489d3d72fac0")
+	)
+	(wire
+		(pts
+			(xy 495.3 266.7) (xy 571.5 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a5b7e32-233a-4b27-9b92-08bcb214a433")
+	)
+	(wire
+		(pts
+			(xy 685.8 266.7) (xy 698.5 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38e41bb6-2e13-4b81-a0c6-391d81014456")
+	)
+	(wire
+		(pts
+			(xy 845.82 260.35) (xy 829.31 260.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cb72c81-55d8-4939-a0b8-9aa924115c18")
+	)
+	(wire
+		(pts
+			(xy 622.3 266.7) (xy 635 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58cae921-a878-436b-9ec0-e8872af1d707")
+	)
+	(wire
+		(pts
+			(xy 889 190.5) (xy 876.3 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c91d85e-d4a1-462b-b379-0695366892ab")
+	)
+	(wire
+		(pts
+			(xy 431.8 266.7) (xy 444.5 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e7bc0fb-d768-4b16-ac52-cac477b787f7")
+	)
+	(wire
+		(pts
+			(xy 304.8 190.5) (xy 317.5 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f85eb51-a82e-4d96-9e84-4a7e51f2b65b")
+	)
+	(wire
+		(pts
+			(xy 622.3 190.5) (xy 635 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e74fec3-6546-4685-b41a-8440a0955ec4")
+	)
+	(wire
+		(pts
+			(xy 304.8 266.7) (xy 304.8 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f6e72a2-074e-4c69-9395-1ff54082ce8b")
+	)
+	(wire
+		(pts
+			(xy 889 247.65) (xy 889 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84ab32d7-0529-4a2d-ae61-618c10366596")
+	)
+	(wire
+		(pts
+			(xy 829.31 266.7) (xy 812.8 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fec02ba-b14c-4bb5-8651-3fe27aa9725c")
+	)
+	(wire
+		(pts
+			(xy 431.8 190.5) (xy 444.5 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a48719bd-2cf1-4098-b785-70737a8ee1df")
+	)
+	(wire
+		(pts
+			(xy 749.3 266.7) (xy 762 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5a3a8f1-3618-45ef-b329-c4cbdf84b7c5")
+	)
+	(wire
+		(pts
+			(xy 812.8 190.5) (xy 825.5 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aee9754c-5649-4e54-94a2-d1a8d0eba193")
+	)
+	(wire
+		(pts
+			(xy 304.8 247.65) (xy 889 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b24ab340-6a8f-43e1-a8f9-d716113c93d8")
+	)
+	(wire
+		(pts
+			(xy 829.31 260.35) (xy 829.31 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6c91383-7cbc-4129-8a51-c5ebcbcdfd93")
+	)
+	(wire
+		(pts
+			(xy 317.5 266.7) (xy 304.8 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c915fc31-c413-4180-a72a-06cba7e6f91e")
+	)
+	(wire
+		(pts
+			(xy 495.3 190.5) (xy 508 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd163de8-fa69-48ca-b65b-451d58e70f99")
+	)
+	(wire
+		(pts
+			(xy 558.8 190.5) (xy 571.5 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d40d444f-b440-459d-9662-ef597f78e794")
+	)
+	(wire
+		(pts
+			(xy 685.8 190.5) (xy 762 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eca9a3fc-54a0-428c-a13c-f07e086ab3e5")
+	)
+	(wire
+		(pts
+			(xy 368.3 190.5) (xy 381 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fce2a9cb-5db6-4780-a650-cf5887929bea")
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 848.36 265.43 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "68b7a421-ed73-4cb8-9c35-336f48ae8f72")
+		(property "Reference" "J1"
+			(at 853.44 264.1599 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 853.44 266.6999 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+			(at 848.36 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 848.36 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 848.36 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e87e696e-06b0-4ed5-b214-c02d4a019cf3")
+		)
+		(pin "2"
+			(uuid "9a9be70d-cf7d-45bb-b21e-c8527a5e2fef")
+		)
+		(pin "3"
+			(uuid "b6547175-aa02-44d8-8242-82b5df80dd3f")
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 848.36 260.35 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d296b696-4c71-433b-85fa-03e0f41c2189")
+		(property "Reference" "#PWR0481"
+			(at 848.36 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 848.36 255.27 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 848.36 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 848.36 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 848.36 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "419917db-8234-4a2b-ae12-3d9f64a03006")
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(reference "#PWR0481")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 850.9 260.35 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "de4f2f73-b2f6-4dd9-bfc0-1033424e6a4e")
+		(property "Reference" "#PWR0482"
+			(at 850.9 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 850.9 255.27 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 850.9 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 850.9 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 850.9 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9ca5d174-00aa-4ad9-8c1d-e745e7b8ea95")
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(reference "#PWR0482")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 254 177.8)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "08fd96c8-1bd6-4163-8afc-591b2ba84cfb")
+		(property "Sheetname" "LETTER15"
+			(at 254 177.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 254 241.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 304.8 190.5 0)
+			(uuid "4030e7d1-384b-418f-a729-0b3e57be5f8e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 254 190.5 180)
+			(uuid "f284e767-f168-4a53-99c7-71198cb9fe70")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 571.5 254)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0b16b80a-3592-4553-93ab-bfd8a7dcbcef")
+		(property "Sheetname" "LETTER3"
+			(at 571.5 253.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 571.5 318.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 622.3 266.7 0)
+			(uuid "f2ac5fe0-afcb-45b9-af85-6550266ec102")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 571.5 266.7 180)
+			(uuid "da99142a-8064-43d3-a23d-ace67581fe24")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 508 177.8)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "1449314f-7ee8-4f93-886d-51f1a7929054")
+		(property "Sheetname" "LETTER11"
+			(at 508 177.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 508 241.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 558.8 190.5 0)
+			(uuid "f6f97fbf-3a75-4ddc-b86a-b5e637a30d5c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 508 190.5 180)
+			(uuid "f5d7dfd3-5a81-4d82-bf5b-d0f4d3eddbbd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 571.5 177.8)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "40c3930d-a242-4a3c-b36c-98450b3f8807")
+		(property "Sheetname" "LETTER10"
+			(at 571.5 177.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 571.5 241.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 622.3 190.5 0)
+			(uuid "f904430b-f60b-4d1a-9924-9d1d8292205a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 571.5 190.5 180)
+			(uuid "c01f3e69-d5e2-4020-a3c0-8960c3c38426")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 381 254)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4695335c-ca8d-4642-be31-604c75440a22")
+		(property "Sheetname" "LETTER5"
+			(at 381 253.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 381 318.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 431.8 266.7 0)
+			(uuid "2d202468-7ba0-4c9e-8e5e-6f2a82f85c2b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 381 266.7 180)
+			(uuid "228d2085-60b3-4089-b269-fed1550a5b3a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 635 177.8)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5b3112d9-f931-47a8-b3f4-a4a624e803b2")
+		(property "Sheetname" "LETTER9"
+			(at 635 177.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 635 241.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 685.8 190.5 0)
+			(uuid "4d18ef9e-b7ce-43ab-a84d-df043ba071b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 635 190.5 180)
+			(uuid "efdec617-8a65-479a-8b45-1c6e855898fd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 762 254)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5b9710f8-77e9-4e9f-a5bc-b97720b8681c")
+		(property "Sheetname" "LETTER"
+			(at 762 253.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 762 318.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 812.8 266.7 0)
+			(uuid "e3b8b65f-6254-4ac2-acdf-6ec77220654d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 762 266.7 180)
+			(uuid "8310deff-8279-4c3e-aa29-297cbea56905")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 635 254)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "655138d4-6ab8-4530-8657-cc0b5f42cb0b")
+		(property "Sheetname" "LETTER2"
+			(at 635 253.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 635 318.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 685.8 266.7 0)
+			(uuid "d5bfa60d-6442-4685-971b-99edc70612b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 635 266.7 180)
+			(uuid "7321a6ae-c7dc-4276-a4fe-af6e73614d7f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 317.5 254)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "683ccf74-31bf-4847-a740-5a4a53a49944")
+		(property "Sheetname" "LETTER6"
+			(at 317.5 253.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 317.5 318.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 368.3 266.7 0)
+			(uuid "58bd96df-09cc-4294-a45e-752cd23f864f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 317.5 266.7 180)
+			(uuid "f056ed8a-f8f7-4bd2-a8b2-3cbb36d6fca7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 444.5 177.8)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6f7a81ee-cad5-4d3b-955e-70843ee7ba7d")
+		(property "Sheetname" "LETTER12"
+			(at 444.5 177.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 444.5 241.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 495.3 190.5 0)
+			(uuid "0a664e12-4e56-4ea8-8d24-1c59b1cb8bb7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 444.5 190.5 180)
+			(uuid "e80d0069-bdf5-4ebc-82dc-cd9894750200")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 381 177.8)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8143eb25-2f7e-412e-bfda-67918274da14")
+		(property "Sheetname" "LETTER13"
+			(at 381 177.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 381 241.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 431.8 190.5 0)
+			(uuid "a9f79b03-68a1-4686-96e2-3c4d4fa711f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 381 190.5 180)
+			(uuid "da5a18d9-645a-4399-81ee-b188a07f2441")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 762 177.8)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a868be71-056e-407f-bd2a-d1c3b8d0752e")
+		(property "Sheetname" "LETTER8"
+			(at 762 177.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 762 241.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 812.8 190.5 0)
+			(uuid "85553c3b-8b35-48a0-9cf7-26c2a54c088b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 762 190.5 180)
+			(uuid "f933ec14-84e0-44fd-b1dc-a882a617908c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 825.5 177.8)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ab61c5a4-7d44-44d0-bea0-8cc0835b3152")
+		(property "Sheetname" "LETTER7"
+			(at 825.5 177.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 825.5 241.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 876.3 190.5 0)
+			(uuid "dc09ec3f-8dbe-46ed-bd7a-470543ea9b08")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 825.5 190.5 180)
+			(uuid "16c9bbbd-9625-4b79-80f2-d9b9edb04317")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 444.5 254)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "be53e288-b32d-42f5-8f1d-a5d9eb2f0db4")
+		(property "Sheetname" "LETTER4"
+			(at 444.5 253.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 444.5 318.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 495.3 266.7 0)
+			(uuid "ec654af0-bfc0-4383-b7ff-e4f946943248")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 444.5 266.7 180)
+			(uuid "5713b8cf-041c-496c-9e47-10f9dd438797")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 317.5 177.8)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e47238d3-dca4-40c8-846f-72c854c0d8cf")
+		(property "Sheetname" "LETTER14"
+			(at 317.5 177.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 317.5 241.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 368.3 190.5 0)
+			(uuid "f2460797-f440-46ec-b03c-4bc866a2d1e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 317.5 190.5 180)
+			(uuid "7169548f-58bd-4cf1-8a9c-9ea0a934aede")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 698.5 254)
+		(size 50.8 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ebd28c07-e92a-4c80-ad20-e80dbda2fba2")
+		(property "Sheetname" "LETTER1"
+			(at 698.5 253.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "letter.kicad_sch"
+			(at 698.5 318.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DIN" input
+			(at 749.3 266.7 0)
+			(uuid "4b8351b5-0bce-4761-9cb5-902eaa0c5e62")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DOUT" output
+			(at 698.5 266.7 180)
+			(uuid "1eba5a27-be65-44fa-9f5c-7964e8ddcdc8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fotm-sign"
+				(path "/b26ef004-a98e-44f3-9c63-a0d6a8b511d5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
