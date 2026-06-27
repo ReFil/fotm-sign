@@ -113,7 +113,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -94042,14 +94041,6 @@
 		(uuid "a677ecd8-67c4-402f-8f47-5ca014d55ece")
 	)
 	(segment
-		(start 315.36 112.84)
-		(end 315.36 104.17)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(U1-DOUT)")
-		(uuid "a64b0c46-2e66-4776-b08e-36064c7c411c")
-	)
-	(segment
 		(start 317.54 129.3)
 		(end 315.36 127.12)
 		(width 0.2)
@@ -94064,6 +94055,14 @@
 		(layer "F.Cu")
 		(net "/LETTER/DIN")
 		(uuid "96dec83d-f033-4596-856e-244dbfb6fc74")
+	)
+	(segment
+		(start 315.36 112.84)
+		(end 315.36 104.17)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(U1-DOUT)")
+		(uuid "a64b0c46-2e66-4776-b08e-36064c7c411c")
 	)
 	(segment
 		(start 307.36 75.453381)

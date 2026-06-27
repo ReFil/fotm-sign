@@ -1,0 +1,48 @@
+name: "Generate Gerbers"
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    paths:
+      - '*.kicad_sch'
+      - '*.kicad_pcb'
+      - '.github/workflows/kibot_quick_start.yml'
+  pull_request:
+    paths:
+      - '*.kicad_sch'
+      - '*.kicad_pcb'
+      - '.github/workflows/kibot_quick_start.yml'
+  repository_dispatch:
+    types: [run_qs]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  quick:
+    runs-on: ubuntu-latest
+    container: ghcr.io/inti-cmnb/kicad10_auto:latest
+
+    steps:
+    - name: set release date
+      run: |
+        echo "time=$(date +%d-%m-%y)" >> $GITHUB_ENV
+    - uses: actions/checkout@v5
+      with:
+        # So we can run a diff between last 2 changes
+        fetch-depth: '0'
+
+    - name: Quick Start
+      run: |
+        kibot -c automatic.kibot.yaml
+
+    - name: Retrieve results (cust)
+      uses: actions/upload-artifact@v5
+      with:
+        name: fotm-sign-Gerbers-${{ env.time }}
+        path: outputs/automatic/cust
+
+    - name: Retrieve results (main)
+      uses: actions/upload-artifact@v5
+      with:
+        name: form-sign-Full-Gerbers-${{ env.time }}
+        path: outputs/automatic
