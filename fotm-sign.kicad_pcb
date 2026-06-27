@@ -212,42 +212,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cd9bda05-5123-4aee-be5a-afc2e4bfefec")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5d66738a-a06a-4b69-be52-d1dfc7a4583e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/683ccf74-31bf-4847-a740-5a4a53a49944/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER6/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -1004,42 +972,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b68ae51b-03b5-4146-953c-1115ab33e126")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "72107d42-b934-4067-94f2-dc33a1d9553f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/a868be71-056e-407f-bd2a-d1c3b8d0752e/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER8/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -1316,42 +1252,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c21ad7bb-962d-48d3-a02a-452209b79631")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0277e695-dfff-4659-bb61-d1ec0ef54413")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/1449314f-7ee8-4f93-886d-51f1a7929054/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER11/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -2361,42 +2265,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "84df4090-46f6-42a4-9b49-c1fbf87b8425")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ea5ea9f7-dd36-4628-b157-36a5e491fb77")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b9710f8-77e9-4e9f-a5bc-b97720b8681c/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -2673,42 +2545,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2dc61832-f783-4780-8099-d0a86bd5e9a8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "37b731e2-c74a-443b-b64b-39447fb1f9c9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/a868be71-056e-407f-bd2a-d1c3b8d0752e/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER8/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -3305,42 +3145,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fad980ba-d01e-404b-9102-1f2c62c4f506")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "77d84e42-c9bc-4bc0-8439-ce7d17b72ed1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/a868be71-056e-407f-bd2a-d1c3b8d0752e/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER8/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -3617,42 +3425,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ff01ca68-a0fb-457c-be8e-8ea0e4fd80ce")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dcd2740c-910f-46af-9cde-84572a69186e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/1449314f-7ee8-4f93-886d-51f1a7929054/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER11/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -4089,42 +3865,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1e6a3054-5c86-4582-8576-ede37b4d1a55")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e40ba6e9-2276-4d8c-83a6-39a1c500baf0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6f7a81ee-cad5-4d3b-955e-70843ee7ba7d/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER12/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -4401,42 +4145,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "88faf113-1ec9-41e3-8ae8-4f7564fa7153")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fee73391-38cf-4430-86bb-515f421c3245")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b9710f8-77e9-4e9f-a5bc-b97720b8681c/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -5193,42 +4905,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "04c4410d-94f5-4f7c-a0d0-83ea1ee822a9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dfb8a825-a11f-4bfb-8f03-b2068ac93e9c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/1449314f-7ee8-4f93-886d-51f1a7929054/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER11/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -5505,42 +5185,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "49f4af8c-789b-4b8f-ba1b-039be3b4c8ce")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "98bceee9-e084-47e9-9d8d-71b55cd5e681")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/4695335c-ca8d-4642-be31-604c75440a22/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER5/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -6137,42 +5785,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ed96ea1f-4a1d-4127-aaf6-de614dc05b31")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6cb5dc43-be44-4f59-b0b1-d504c56984a2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8143eb25-2f7e-412e-bfda-67918274da14/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER13/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -6449,42 +6065,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "994f7925-2ce2-4c84-91ea-1a4e87ab2268")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9ad15fdd-86b0-49eb-955f-d0a2022497a1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b9710f8-77e9-4e9f-a5bc-b97720b8681c/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -6761,42 +6345,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6c81f96a-e7a4-4de9-abad-4eb553d2a72c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a2ffebb8-7fbe-4536-a58a-3cdf5e98a901")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ebd28c07-e92a-4c80-ad20-e80dbda2fba2/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER1/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -7073,42 +6625,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "11f30079-a21c-47da-ae5c-99593dff2de6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a664937f-29dd-44ec-930c-03008e0425d9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ebd28c07-e92a-4c80-ad20-e80dbda2fba2/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER1/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -7385,42 +6905,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0da25a8b-46de-4c4f-9a5e-07234b50da70")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b32419be-7271-4b43-a462-dd5655f7bdca")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/be53e288-b32d-42f5-8f1d-a5d9eb2f0db4/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER4/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -7697,42 +7185,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "09bb1ab1-129a-4a4e-90c4-b87073a9f8b9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "07ba166d-3fa5-4bd6-8508-f3f03d176a3c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8143eb25-2f7e-412e-bfda-67918274da14/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER13/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -8329,42 +7785,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "26ad7893-e55a-4406-bb9a-cba888bab1b2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "87533797-0e62-48d9-b343-c5b55fc95912")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/0b16b80a-3592-4553-93ab-bfd8a7dcbcef/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER3/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -8641,42 +8065,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d4255211-f9f9-4471-a8f3-6f3ceaa54984")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cb47babc-1ae3-42d0-b9eb-e15bed224061")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6f7a81ee-cad5-4d3b-955e-70843ee7ba7d/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER12/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -8953,42 +8345,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7b3d6ad3-ea55-4208-b1b4-bc29bee645f2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8da13805-8e4e-4f75-8d34-9f523ea266ec")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/1449314f-7ee8-4f93-886d-51f1a7929054/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER11/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -9265,42 +8625,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a7e66a17-aa66-470a-944b-5df78a80083c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "164c255b-ad9c-4378-a64d-3e169803baf1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ebd28c07-e92a-4c80-ad20-e80dbda2fba2/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER1/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -9577,42 +8905,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7812dd8c-5d28-48aa-b948-6de770f85f62")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2d273ddc-fec6-4fed-9cad-191fb41ebb9f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/e47238d3-dca4-40c8-846f-72c854c0d8cf/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER14/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -9889,42 +9185,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d35f97d3-4da7-40ac-ba62-60a2e15fa446")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c24d9174-274c-4547-8f97-c0f7fed1a0f7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/0b16b80a-3592-4553-93ab-bfd8a7dcbcef/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER3/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -10201,42 +9465,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "906dc7aa-9199-40bb-82cc-687de8242cb5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ad6584b7-591d-4cae-8a2d-bb3e628cfecc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/0b16b80a-3592-4553-93ab-bfd8a7dcbcef/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER3/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -10513,42 +9745,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2847a0c8-6e66-49b2-8369-f91061cb412b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "667ef82f-c183-4976-9a7b-17a53944a96b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/be53e288-b32d-42f5-8f1d-a5d9eb2f0db4/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER4/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -10825,42 +10025,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2bc57e80-fad4-4a24-bf5f-6e3f2ca3977c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "058fd1c9-b999-4c94-940f-9d7c6f383c76")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ab61c5a4-7d44-44d0-bea0-8cc0835b3152/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER7/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -11137,42 +10305,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "818f49eb-7bbd-4266-beeb-27550a1d2361")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8771064d-637d-433d-adf4-76bc368a1b07")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/be53e288-b32d-42f5-8f1d-a5d9eb2f0db4/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER4/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -11449,42 +10585,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d6286220-36b4-4a03-9398-e79b572d3f8d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "914d2c5b-d683-4347-b01c-cdda0d7979ae")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/e47238d3-dca4-40c8-846f-72c854c0d8cf/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER14/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -11761,42 +10865,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f372a3d0-9776-468c-bf29-0ad6559f2791")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5c5e3c47-dc60-4cfa-871e-61d28a5b73bd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8143eb25-2f7e-412e-bfda-67918274da14/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER13/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -12713,42 +11785,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "161974cf-1ba4-44df-96f8-5300e44efc47")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5ae82369-3f35-4b29-bf8b-cab75b872a9f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/1449314f-7ee8-4f93-886d-51f1a7929054/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER11/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -13025,42 +12065,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e755ca0a-b2ae-4891-ab48-a8120db9ec4c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a8efe014-22d7-4aab-808d-d34fa981ec5e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ebd28c07-e92a-4c80-ad20-e80dbda2fba2/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER1/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -13337,42 +12345,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bb345439-9dae-4372-b6f8-ef2d96848c4c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9b71a6c0-37f5-4533-801d-159e2723e4a4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/40c3930d-a242-4a3c-b36c-98450b3f8807/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER10/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -13649,42 +12625,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8195e6e4-5ad5-46f4-9e72-5c74ef34ac35")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "111034bb-3f04-480e-a66f-a865c24a69c8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/0b16b80a-3592-4553-93ab-bfd8a7dcbcef/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER3/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -13961,42 +12905,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fc75ed21-63af-4490-bddd-0fb3c7728367")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d3e8f9cb-c1c3-4845-8f4f-aa088f1c6578")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8143eb25-2f7e-412e-bfda-67918274da14/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER13/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -14593,42 +13505,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e2c97c83-ea34-433e-a1cb-370ea809190f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f792b65e-f244-43cb-8a00-1c6686672db1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/be53e288-b32d-42f5-8f1d-a5d9eb2f0db4/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER4/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -14905,42 +13785,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "83103e41-a742-49ae-ab6c-aee8356c06b7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ab64199e-e2a2-4a5a-b7fc-e0d18e0a8307")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/4695335c-ca8d-4642-be31-604c75440a22/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER5/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -15377,42 +14225,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3304b78c-f41c-4866-b571-966fca1eddf3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fe91f732-491f-4330-a995-d40e7e7d276f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6f7a81ee-cad5-4d3b-955e-70843ee7ba7d/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER12/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -15849,42 +14665,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "342b992e-dad3-4e30-90ea-4d13b0518a45")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e08e5802-634f-4c4f-9b69-744886efaaf1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b3112d9-f931-47a8-b3f4-a4a624e803b2/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER9/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -16161,42 +14945,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cf7fd37f-2692-4790-aad3-a0d91a30be28")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d0a5f161-0dda-4b4f-be2b-ff48c3fbb5b3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b9710f8-77e9-4e9f-a5bc-b97720b8681c/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -16473,42 +15225,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4acc9014-0eba-4995-8629-bada59cf546d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "12803208-df41-4bd2-b13a-9d0bc582e143")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b9710f8-77e9-4e9f-a5bc-b97720b8681c/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -16785,42 +15505,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "31e8ead2-0cdc-405a-ba87-736ec4444086")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "43a6a9d9-6883-43c6-8fc8-6d674808d752")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/0b16b80a-3592-4553-93ab-bfd8a7dcbcef/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER3/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -17257,42 +15945,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c0c277c0-ece9-4c33-9c05-e3d75b97a2ad")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "76c70568-3139-446b-bfb6-e15e9bdef905")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8143eb25-2f7e-412e-bfda-67918274da14/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER13/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -17729,42 +16385,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "75364de4-cc2f-4b63-922c-8f3f3d68232b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "35c62b59-b9c9-4214-93fa-21ba2c540051")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6f7a81ee-cad5-4d3b-955e-70843ee7ba7d/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER12/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -18041,42 +16665,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f77cf6d6-b6ff-4f6b-88d6-fa53a51d4ed1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "63f766af-a3f0-4030-a084-d3b9feef92ff")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/4695335c-ca8d-4642-be31-604c75440a22/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER5/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -18353,42 +16945,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c7b414ad-bcdb-4d2b-a828-879a2ff052bb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f84364eb-805e-4c0d-9fdf-93a02533aa1f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/1449314f-7ee8-4f93-886d-51f1a7929054/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER11/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -18665,42 +17225,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "303d17ab-2cf7-41b2-aa7a-96bfcef89f3e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d0efa0de-240f-49fb-b797-8f530d63d993")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/08fd96c8-1bd6-4163-8afc-591b2ba84cfb/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER15/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -19457,42 +17985,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a433cf68-ab2c-4b22-9099-2028124a7ffc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "405d4f0d-94eb-4e8b-8a70-add8da6e2cda")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/655138d4-6ab8-4530-8657-cc0b5f42cb0b/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER2/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -19769,42 +18265,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f135218e-c0ae-4853-911c-0e8c2dc26f22")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "10e31f4b-a1f0-4077-8b38-80aa4be6ba5d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/655138d4-6ab8-4530-8657-cc0b5f42cb0b/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER2/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -20081,42 +18545,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5e4c0bf2-d0b9-4778-8afd-832224b9fcf5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "feafedab-df0f-402b-932a-4799ccbbc981")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/be53e288-b32d-42f5-8f1d-a5d9eb2f0db4/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER4/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -21193,42 +19625,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f5b2de5e-2a81-4503-b815-00067abd63d6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "92512008-1ad4-47d2-b56d-86dccde55d9c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/40c3930d-a242-4a3c-b36c-98450b3f8807/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER10/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -21505,42 +19905,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6673fa48-0480-4d32-9ce2-8d883a52f797")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e18f8628-942a-4f46-a867-6d67308c522d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8143eb25-2f7e-412e-bfda-67918274da14/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER13/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -22136,42 +20504,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3308c0ff-9c51-4d67-8072-386fb3ad790c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "94aab95e-e4c0-4fd1-8029-c51d08f63989")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/a868be71-056e-407f-bd2a-d1c3b8d0752e/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER8/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -22448,42 +20784,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a267b4f1-a33e-416c-b5c2-3a6ba13e940f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1a1d3341-1250-4877-afab-4bcaf8a36282")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/4695335c-ca8d-4642-be31-604c75440a22/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER5/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -23400,42 +21704,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0124aef4-2bb2-418a-9a99-e80105237335")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6a8fe77f-1425-4fbd-8ff0-5caa87433e5f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6f7a81ee-cad5-4d3b-955e-70843ee7ba7d/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER12/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -23711,42 +21983,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "32b85d11-c141-423a-b943-7871ec01ce11")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "921af0b5-9690-4a4d-ade4-028425968de1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ab61c5a4-7d44-44d0-bea0-8cc0835b3152/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER7/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -24183,42 +22423,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "627737eb-5477-4517-baec-7a0b64196482")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b9ff8abe-6e5e-4836-9956-d97f960efdf6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b9710f8-77e9-4e9f-a5bc-b97720b8681c/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -24495,42 +22703,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8aa9e745-aa1a-4d80-8236-d11251a8d491")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ad1fed69-0c0a-4c9a-a8f2-b1ea95aa6527")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/08fd96c8-1bd6-4163-8afc-591b2ba84cfb/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER15/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -25287,42 +23463,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8f3aa53c-1de6-4d83-a8cd-6bdb0452cf40")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "46cb53e0-e1c6-489c-adde-9e63f7ee8bf1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/08fd96c8-1bd6-4163-8afc-591b2ba84cfb/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER15/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -25599,42 +23743,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "64f3ca4a-8ae2-4636-ba02-3dea956ed452")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ec189c3f-9be8-4c02-b631-998052a3e3c9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/683ccf74-31bf-4847-a740-5a4a53a49944/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER6/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -26071,42 +24183,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4eb9542a-3162-4108-ad11-bd97de20d754")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ad59e478-e5ff-4d73-9af6-292eb6354683")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/e47238d3-dca4-40c8-846f-72c854c0d8cf/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER14/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -26383,42 +24463,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "aafbbb34-6a07-4f97-bb0d-26908fb63eff")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3fcd0cf2-58fa-4fe4-a5e7-d98b2bac9040")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/683ccf74-31bf-4847-a740-5a4a53a49944/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER6/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -26695,42 +24743,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "16b843d2-0e74-4e31-9a89-9c23736f4996")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bbc9e03b-fa93-43ca-b6e8-4bface60090b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b3112d9-f931-47a8-b3f4-a4a624e803b2/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER9/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -27006,42 +25022,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "05ca4483-251b-4a02-9bb7-a1b4ea681ae3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "23dde662-14a1-40d7-9e21-1db08e33aa24")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ab61c5a4-7d44-44d0-bea0-8cc0835b3152/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER7/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -27478,42 +25462,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c2d7c76e-32f2-400d-9f7d-d338641d772e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d3c63284-92ba-454a-b29a-8d3f9b8efc02")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/1449314f-7ee8-4f93-886d-51f1a7929054/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER11/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -28429,42 +26381,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9c1fe234-a153-4552-8dce-2bfa02175366")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4dae810a-63ff-46cb-a146-3c3caf55b21d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ebd28c07-e92a-4c80-ad20-e80dbda2fba2/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER1/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -29380,42 +27300,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a73c4f8e-8a89-46cd-9eb7-d25bd1fc17f8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1e4fa478-f265-4d6d-992c-1a236208a78d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/e47238d3-dca4-40c8-846f-72c854c0d8cf/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER14/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -29691,42 +27579,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b3a43dba-86d9-44fd-80c7-d2a2e72f631f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "71a5be04-2941-4e5d-9973-48a5ee8f3338")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ab61c5a4-7d44-44d0-bea0-8cc0835b3152/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER7/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -30003,42 +27859,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "096c9063-d847-4c5f-84e1-4baaf533399d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bd98d4d9-b71b-4c78-8b00-19286a0b6e75")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/1449314f-7ee8-4f93-886d-51f1a7929054/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER11/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -30315,42 +28139,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5b31f580-abd0-4c8e-82fb-7f88ebbbd589")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "172a00b6-5377-42d7-9079-e277a5848bec")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6f7a81ee-cad5-4d3b-955e-70843ee7ba7d/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER12/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -30787,42 +28579,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0fb46f27-0715-40ef-be42-480a5fcf6c76")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "74e209e0-1d37-4f93-9416-8982169c06ed")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b3112d9-f931-47a8-b3f4-a4a624e803b2/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER9/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -31099,42 +28859,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6ac8e945-9b5f-4a9f-a419-d0b6c7b28a81")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a985cfa6-616a-4782-9e1c-71277fc5a4e2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b3112d9-f931-47a8-b3f4-a4a624e803b2/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER9/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -31571,42 +29299,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "668cae23-630a-4999-ba97-26561e473dcf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f08092b0-4a84-418b-a8be-ff7f7beb5006")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/e47238d3-dca4-40c8-846f-72c854c0d8cf/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER14/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -32363,42 +30059,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ed2bb66d-ce66-4f76-9ac8-cc8ccdd36e3a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "21daa6b0-b603-4331-91c2-e71ce1a5f741")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6f7a81ee-cad5-4d3b-955e-70843ee7ba7d/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER12/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -33315,42 +30979,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9f5b8861-62cb-4513-a6eb-6c8cb72f86de")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7b49dabb-807e-4e6d-92a7-39bfb8246e1d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ab61c5a4-7d44-44d0-bea0-8cc0835b3152/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER7/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -34267,42 +31899,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "463b19e0-b943-4376-b587-75b6128ff3dd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "83890424-0679-4aa2-a1e4-89e77c37b159")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/4695335c-ca8d-4642-be31-604c75440a22/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER5/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -34739,42 +32339,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b4ae7f5c-c2ec-4431-9b4f-9d9dddfc31e2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1eeee04d-6b77-49aa-ad2b-4ba35841075e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/be53e288-b32d-42f5-8f1d-a5d9eb2f0db4/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER4/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -35211,42 +32779,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fe30bf78-c0ce-4087-9649-d254d9ad6f34")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bbe1938e-77e7-4ac8-bd48-77b3951be705")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ebd28c07-e92a-4c80-ad20-e80dbda2fba2/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER1/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -35683,42 +33219,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5ae45460-6cfe-4a87-a408-c55f1799ed25")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "825fb3ec-464f-4f01-946c-99c5a6d58932")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6f7a81ee-cad5-4d3b-955e-70843ee7ba7d/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER12/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -36155,42 +33659,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4aa2a803-72bf-4d27-b4f6-3bc9bf468f8b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "be55c723-510f-4dbc-b631-dc3a84d9fdf0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/08fd96c8-1bd6-4163-8afc-591b2ba84cfb/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER15/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -36947,42 +34419,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b51c1b19-53f5-4887-b0be-df7e85ad5a71")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "09608b34-ddcd-45f3-857f-9eef2ecac44c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/40c3930d-a242-4a3c-b36c-98450b3f8807/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER10/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -37259,42 +34699,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b74733a9-1a56-4d98-aa2b-89b82910a8b4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5b74f2e3-6ce7-4166-aa75-95c7bcb9b0aa")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8143eb25-2f7e-412e-bfda-67918274da14/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER13/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -37731,42 +35139,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5c02d47d-ecd4-4fd2-bbd0-75650219e077")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c48f443c-5101-4113-b188-528e12ba414d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ebd28c07-e92a-4c80-ad20-e80dbda2fba2/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER1/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -38043,42 +35419,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "302ded7c-21f2-47ff-bd5b-8258e228cb59")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0d808418-8a3b-4f8a-bf20-31f3c6f13d05")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/40c3930d-a242-4a3c-b36c-98450b3f8807/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER10/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -38355,42 +35699,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "63fd1940-6e46-4dd3-8c0f-0e11db34c256")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0962063e-d595-4339-abe9-3a666047f736")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/40c3930d-a242-4a3c-b36c-98450b3f8807/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER10/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -38667,42 +35979,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "820347d3-fc01-4bc5-83a6-61312f7b0771")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a5578871-cadb-4947-b00c-a977762f9fd4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b9710f8-77e9-4e9f-a5bc-b97720b8681c/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -39299,42 +36579,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bcf77d17-60c8-44be-ba8f-105b208443b1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "61f84bc4-6f3b-4b27-a303-a58ff2b96f4e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/655138d4-6ab8-4530-8657-cc0b5f42cb0b/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER2/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -39611,42 +36859,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "23eccf13-d652-4192-8bfe-552028f49e13")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "44e0306b-e917-4dab-bb0c-7bfba8e0d66e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ab61c5a4-7d44-44d0-bea0-8cc0835b3152/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER7/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -39923,42 +37139,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b7f4e0df-2e6b-4882-ad58-452eb6ec8ff3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a83bf386-3e87-4789-b3c1-1448b8deab3d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ebd28c07-e92a-4c80-ad20-e80dbda2fba2/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER1/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -40235,42 +37419,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f6bf1e64-33aa-4dbe-b012-ed0d4b5e7510")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "662dcb57-3c5e-40a9-b5d4-732733566f2f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8143eb25-2f7e-412e-bfda-67918274da14/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER13/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -40707,42 +37859,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2692922d-e38e-40b4-ae8e-07da81b13aab")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "954a5977-d5a7-457c-b581-9f7568fefc41")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/08fd96c8-1bd6-4163-8afc-591b2ba84cfb/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER15/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -41339,42 +38459,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "640f8442-0deb-4a2c-afbd-8b71f54baade")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "50e3ffc4-6edb-4354-80a5-d41c26e666ea")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8143eb25-2f7e-412e-bfda-67918274da14/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER13/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -41651,42 +38739,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e459dfd4-d2e2-40b2-b16f-a985102c5229")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3f4a125a-fb9b-44a2-ae29-80813c51d59f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/655138d4-6ab8-4530-8657-cc0b5f42cb0b/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER2/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -41963,42 +39019,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5b26e0a9-40e0-443f-8ef2-87d31cd17baf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "49b2e003-ffdc-4e8a-9b95-82e0b1a04ec8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/08fd96c8-1bd6-4163-8afc-591b2ba84cfb/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER15/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -42435,42 +39459,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "eea495f7-56bd-4985-81c5-f2aa9cb62aa2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "54f4a8e4-881c-47c5-88cb-0ab73d6d0c68")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b3112d9-f931-47a8-b3f4-a4a624e803b2/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER9/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -42747,42 +39739,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "566bfc13-a493-483f-a6aa-2eeca5f4a60d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "574636f5-23e0-451c-a8ed-d403402ef969")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/4695335c-ca8d-4642-be31-604c75440a22/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER5/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -43059,42 +40019,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "72254d4e-85bd-45e2-9f28-37b24e4b8b47")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1c69e24e-7002-4239-9093-ec273cbbbbc2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b9710f8-77e9-4e9f-a5bc-b97720b8681c/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -43371,42 +40299,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "91220e99-d486-44e0-a2cd-23bb8f9777ea")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "50816656-e21a-448c-8552-4c188aafc62e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/a868be71-056e-407f-bd2a-d1c3b8d0752e/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER8/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -43683,42 +40579,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2d86420b-bfbb-45a6-a28b-83184529ae4e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8632d61a-b4fe-4297-a86d-9b734b2471b7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/655138d4-6ab8-4530-8657-cc0b5f42cb0b/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER2/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -44315,42 +41179,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cb580b53-8a3a-4f9d-a288-177c00a966d8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1b30a178-fcf6-4fcc-91d2-d3d45b309c91")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/40c3930d-a242-4a3c-b36c-98450b3f8807/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER10/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -44787,42 +41619,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "26740aa6-bbe4-4794-aa25-54dc8b67d734")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a818adf5-20b0-498b-a5c5-dcf7e4035334")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/08fd96c8-1bd6-4163-8afc-591b2ba84cfb/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER15/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -45579,42 +42379,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f78dcbfd-ff05-48fb-813f-4b71e9884bb7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "aaf1487e-d5f4-4b86-8e1f-282bad8f6921")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/683ccf74-31bf-4847-a740-5a4a53a49944/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER6/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -45891,42 +42659,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c5122b35-789a-48ba-9eae-f9f46e6879d3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3389541f-61a6-4c2e-8921-5fdd39573ab1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/e47238d3-dca4-40c8-846f-72c854c0d8cf/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER14/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -46203,42 +42939,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5860c381-26ef-4bde-9552-cad0cb3a4b81")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "829d254c-e4e6-43f5-b3e3-d30315fb3256")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/0b16b80a-3592-4553-93ab-bfd8a7dcbcef/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER3/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -46835,42 +43539,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "687bb85f-d4b9-43e8-bc38-fe01a25d4668")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f887780a-1a77-42e5-8d53-e8b4b45937f8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/1449314f-7ee8-4f93-886d-51f1a7929054/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER11/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -47147,42 +43819,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a7bf9481-9072-425d-8524-3ae8ab749cdf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "78baf2dc-90c7-4d93-986c-220abc89c9e6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/be53e288-b32d-42f5-8f1d-a5d9eb2f0db4/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER4/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -47939,42 +44579,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1b608c93-c09e-4ed6-bd8f-49e55d1ea300")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "96e3ebef-a745-46c5-a808-1986c40f1172")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/655138d4-6ab8-4530-8657-cc0b5f42cb0b/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER2/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -48411,42 +45019,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0a9e959d-5737-43e0-a86c-dd831b1523a6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9e6d9ab5-ca03-4ca8-a211-a4dffac22fb6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/655138d4-6ab8-4530-8657-cc0b5f42cb0b/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER2/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -48883,42 +45459,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "88dfcd83-5bb2-478c-8edf-d2e5ea3fb238")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7a156d40-a060-4ae5-84e3-942fbb6fa84d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/683ccf74-31bf-4847-a740-5a4a53a49944/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER6/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -49355,42 +45899,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4a00e03c-3f0c-439f-b029-e4481319cd0b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c22052bf-c194-4569-885a-1149c2f12de9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/683ccf74-31bf-4847-a740-5a4a53a49944/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER6/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -49667,42 +46179,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f8db67a6-f9f0-4529-b3f1-a8325a8b6e41")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bf49cbf8-c269-4fbd-a4af-d1a89e442164")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b3112d9-f931-47a8-b3f4-a4a624e803b2/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER9/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -49979,42 +46459,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "93ca0fdd-45ab-470d-b64c-08ce2ed37ac2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4877f159-782b-44cf-8f6c-95cc3c261b51")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b9710f8-77e9-4e9f-a5bc-b97720b8681c/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -51251,42 +47699,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "78df16b1-73a4-4325-aab0-019facfac8b9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a0f7189c-c2ee-4137-aba4-ca7cfb9f8846")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8143eb25-2f7e-412e-bfda-67918274da14/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER13/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -51723,42 +48139,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e25c9351-ff84-443c-8659-12fccca60fb2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3f9e0efc-b5a6-4cb9-9794-cad0858ce555")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/a868be71-056e-407f-bd2a-d1c3b8d0752e/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER8/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -52035,42 +48419,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1d854be6-e4c2-4547-8e83-9faabf3735cc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "16ab603d-8f6d-45ca-b3dc-c01809f139a7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b3112d9-f931-47a8-b3f4-a4a624e803b2/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER9/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -52667,42 +49019,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "31be566b-be00-45c7-8eb2-30eff59b001c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "50bd0ed1-0473-4c47-a415-484c7515b260")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ab61c5a4-7d44-44d0-bea0-8cc0835b3152/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER7/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -53139,42 +49459,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "38c2a1d8-8205-4ce2-a86e-b6db9295351e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "78169342-8325-4855-823d-89bd87098135")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/a868be71-056e-407f-bd2a-d1c3b8d0752e/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER8/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -53451,42 +49739,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f0a45b6d-0101-48f5-b7f1-02a23d98f211")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f4b83ad8-c1d4-4c3d-a15d-a4942fdd73c0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/683ccf74-31bf-4847-a740-5a4a53a49944/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER6/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -53763,42 +50019,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "647b0bb2-8104-401a-91a9-a3d158f553b8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c45a663c-c81b-4023-b456-0e4a72a3b7f9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b3112d9-f931-47a8-b3f4-a4a624e803b2/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER9/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -54235,42 +50459,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8aef50d1-0c06-48d4-ac4d-557b1abfe83a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "686f726c-0bd2-423a-abfd-8f4dc25c3d8e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/655138d4-6ab8-4530-8657-cc0b5f42cb0b/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER2/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -54707,42 +50899,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fb21f37b-5747-46ae-9b86-e77181ae8877")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "58e335f1-6d13-436b-a584-1f163edc08ac")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/4695335c-ca8d-4642-be31-604c75440a22/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER5/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -55019,42 +51179,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1bbe149d-2c39-4ca2-93e0-ac835be4fef4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "307b650b-aef7-4385-9e81-801197b4972e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/0b16b80a-3592-4553-93ab-bfd8a7dcbcef/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER3/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -55331,42 +51459,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "61204a25-1e1f-4d43-bb56-d2efb8375eed")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f7dfa40e-92b5-4dc6-9011-7609b2f5a8b6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ebd28c07-e92a-4c80-ad20-e80dbda2fba2/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER1/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -55803,42 +51899,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0ad9f98d-e782-413e-a42b-889544884e33")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fe9ebb30-13b5-411a-a547-947ad1b9ccb9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/be53e288-b32d-42f5-8f1d-a5d9eb2f0db4/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER4/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -56275,42 +52339,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e6317eee-68da-48f6-b216-0f2a18f68203")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3f9cfc36-984b-4a15-ab58-689c8e05fa2b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/655138d4-6ab8-4530-8657-cc0b5f42cb0b/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER2/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -58507,42 +54539,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f5eeacbe-3bc8-4f78-8205-d055a67b5be8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b60169b2-b78a-42e5-9fd2-a49b55c2ff88")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/683ccf74-31bf-4847-a740-5a4a53a49944/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER6/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -58819,42 +54819,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8fbc8bdb-89f1-41c9-ae20-8af1041e1c38")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ef80be40-1f60-4ad0-bbcf-1692dcf06bda")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/be53e288-b32d-42f5-8f1d-a5d9eb2f0db4/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER4/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -59291,42 +55259,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "15c7b98f-92c1-4ad8-b72c-814b4cfeb23f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5f32d767-9036-4bbb-8e57-718e4b73d5c8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b3112d9-f931-47a8-b3f4-a4a624e803b2/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER9/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -59603,42 +55539,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0cbdf872-0b56-4e53-986b-10b407104d35")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8fb32117-ec56-42db-8558-6439bcb521ad")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/e47238d3-dca4-40c8-846f-72c854c0d8cf/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER14/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -60235,42 +56139,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "32a35216-1aa1-43ed-b555-2ff5d96d2191")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "04b4c8b4-52d2-431b-8984-37c65449e713")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b3112d9-f931-47a8-b3f4-a4a624e803b2/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER9/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -60707,42 +56579,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b36c2db7-3c7b-4223-8632-0a9ffcdeb5d4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "396411c0-36f8-4803-8cfc-d4613de9ffad")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/be53e288-b32d-42f5-8f1d-a5d9eb2f0db4/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER4/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -61339,42 +57179,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "74c2a4f1-06be-4775-809a-d67fc66c83ca")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "53a13b0f-e8a5-461e-9627-a4f4a5829721")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/0b16b80a-3592-4553-93ab-bfd8a7dcbcef/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER3/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -61811,42 +57619,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "31a9b975-412a-4e47-b5e2-553ab2bc3a60")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4b110955-e894-4ec1-bc72-c0a1697ca7ce")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/0b16b80a-3592-4553-93ab-bfd8a7dcbcef/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER3/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -62283,42 +58059,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "261c2098-87eb-48d8-a73c-29d4515ba170")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "77d8310a-fb6f-4ead-8223-e23d4e507338")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6f7a81ee-cad5-4d3b-955e-70843ee7ba7d/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER12/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -62755,42 +58499,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a0b0ca90-bdff-4889-95be-6a84899fa78b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "19085499-9b3b-48c7-be68-9c1dd5514e2c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ebd28c07-e92a-4c80-ad20-e80dbda2fba2/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER1/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -63547,42 +59259,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "918bc777-67a9-4b64-97a5-b0fb6cf4adde")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "18963f70-a424-4925-a418-d3ffe78cbf03")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ab61c5a4-7d44-44d0-bea0-8cc0835b3152/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER7/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -63859,42 +59539,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b8014da4-d6dd-4b03-bbd4-eacfdce0e34e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f2a04055-dc69-4680-acbe-964fcaf89a84")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/40c3930d-a242-4a3c-b36c-98450b3f8807/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER10/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -64171,42 +59819,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b609f0bb-b86e-468c-bce1-9527d3163911")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7a51573a-1454-4c8e-8edc-974f04ea0bbe")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/40c3930d-a242-4a3c-b36c-98450b3f8807/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER10/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -64643,42 +60259,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8ce9247a-1ff0-47e0-91e1-e5a1a11f5a4f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c9329f8b-5593-42e8-95e1-c9468ef8ba96")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/683ccf74-31bf-4847-a740-5a4a53a49944/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER6/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -65115,42 +60699,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "835489ac-9834-47a5-a580-9e823b398940")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a1352ae9-2d77-4db3-86c2-9758b6c69f86")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ab61c5a4-7d44-44d0-bea0-8cc0835b3152/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER7/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -65587,42 +61139,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6b43e784-4a63-45ca-be2d-52b9f5ede7bc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e323d05e-33a5-4aba-b0c5-4a77457b72b0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/e47238d3-dca4-40c8-846f-72c854c0d8cf/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER14/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -65899,42 +61419,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6783455f-4a09-47ba-a1dc-520f8b48450d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "578867af-097f-4fb5-9ac3-2bbdccccaf50")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/4695335c-ca8d-4642-be31-604c75440a22/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER5/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -66211,42 +61699,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2dac086e-1971-4886-b342-ae63a166ef35")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "02dbc5c4-525e-4d73-a48a-13d146e0b2f7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/683ccf74-31bf-4847-a740-5a4a53a49944/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER6/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -66523,42 +61979,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "982211b2-a808-403a-bc59-d82cd919b407")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bbb219bb-e61b-4cf2-992d-110bad50630c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/e47238d3-dca4-40c8-846f-72c854c0d8cf/1656c385-7741-421f-b30a-a2177049f281")
 		(sheetname "/LETTER14/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -67475,42 +62899,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "88eba307-9489-4d38-905c-713867c2eea1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a47a9342-32e5-4721-8a7a-fb37896653de")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/5b9710f8-77e9-4e9f-a5bc-b97720b8681c/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -67787,42 +63179,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5571c4ca-316c-41f2-b854-a0e9eb8f557b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0bfdb756-9f21-457a-897c-235d6cddfb67")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/4695335c-ca8d-4642-be31-604c75440a22/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER5/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -68259,42 +63619,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "85b32272-7816-4796-8cfc-1dc9c13f7628")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e7b3359a-d4fb-4995-ac82-e0a400aa2f06")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/6f7a81ee-cad5-4d3b-955e-70843ee7ba7d/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER12/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -68731,42 +64059,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "431be059-c765-459d-b791-3b6f7a609d92")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2d6a3d82-932c-4262-93fa-caee42b54bd8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/1449314f-7ee8-4f93-886d-51f1a7929054/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER11/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -69843,42 +65139,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "50fbfc5c-ea30-4642-856f-9e3fbc92a985")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8e6bdebe-9b0c-4c16-aba4-b46519cb9779")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/a868be71-056e-407f-bd2a-d1c3b8d0752e/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER8/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -70315,42 +65579,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b506f29a-7c69-41e6-a486-fbefb3300684")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b9133895-79c4-41e7-9953-8db4cccca304")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/e47238d3-dca4-40c8-846f-72c854c0d8cf/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER14/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -70627,42 +65859,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "45bed639-1e9f-43cc-874d-c91b4ec0afbc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dcb06d1d-b3c5-44ee-9a62-c59094f1e3f6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/08fd96c8-1bd6-4163-8afc-591b2ba84cfb/71aae4ba-4e4a-4106-82e4-83a7158faa3e")
 		(sheetname "/LETTER15/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -71259,42 +66459,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "970124cc-8a3c-4641-8926-6738ff46741b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "daf09c18-4fc1-44e0-b534-2c083e26c976")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/0b16b80a-3592-4553-93ab-bfd8a7dcbcef/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER3/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -71891,42 +67059,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "53ab4ea2-d36d-4bce-8151-4703d28f816e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b38958bc-b942-4f26-babb-9126539fc821")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/a868be71-056e-407f-bd2a-d1c3b8d0752e/66c34c99-9cfa-4fff-b0d1-430bfdf78a77")
 		(sheetname "/LETTER8/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -72203,42 +67339,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d0e680cc-b0b6-40ea-87ff-eb369279afd3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "70a7f1fa-560a-4451-babd-cfee9fa2b240")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/40c3930d-a242-4a3c-b36c-98450b3f8807/5823b89e-cd23-454c-8d6f-b31801104ad7")
 		(sheetname "/LETTER10/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -72675,42 +67779,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e6d36d31-1539-4ab0-8f37-d4a1ca15d57c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5e2f41f6-1c64-41ac-a077-89a845eac96c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/08fd96c8-1bd6-4163-8afc-591b2ba84cfb/8a0dd4f6-ee45-4848-b31a-4c32751c8629")
 		(sheetname "/LETTER15/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.93 -0.19)
@@ -73147,42 +68219,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b1e85b3f-6b94-44bc-b56c-939540cef483")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bd778f15-525d-4ed0-bb18-e3c47dd9fe72")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/655138d4-6ab8-4530-8657-cc0b5f42cb0b/6dc3dac7-ee6c-475a-82be-48264bad1ad6")
 		(sheetname "/LETTER2/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -73459,42 +68499,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c83926a8-23ae-47cf-8410-41981a3a2313")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "691ac30c-754a-4e40-b576-dcabde8c8df5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/a868be71-056e-407f-bd2a-d1c3b8d0752e/863fb713-d689-446a-94eb-a9b2636a6ce2")
 		(sheetname "/LETTER8/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
@@ -73771,42 +68779,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "157cfd61-89b7-4267-9c9b-5b4abc66bc80")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fae3c739-b614-4ab5-a384-88404e8e8c51")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/4695335c-ca8d-4642-be31-604c75440a22/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER5/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -74563,42 +69539,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "03512879-9fb0-4023-9a36-03e581b43cae")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "67955609-00a4-4059-bd96-300285ccbf82")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/40c3930d-a242-4a3c-b36c-98450b3f8807/3fc24a51-ca8c-43b8-a695-6457497711a7")
 		(sheetname "/LETTER10/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -74875,42 +69819,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "59436884-c2d2-4111-8bcb-a5d0c3b69ca3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "10b0b36c-3d94-4219-ac17-ba2cfcac8541")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/08fd96c8-1bd6-4163-8afc-591b2ba84cfb/ebefe623-877f-42a7-aef6-b0974f457cf6")
 		(sheetname "/LETTER15/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.75 1.41)
@@ -75187,42 +70099,10 @@
 				)
 			)
 		)
-		(property "Manufacturer" "欧思科光电"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ac97ec2c-7fb1-40d7-bac1-796971862112")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "SK6805SIDE-G-003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d66d3510-798b-4304-ba98-a50873c05ae6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/ab61c5a4-7d44-44d0-bea0-8cc0835b3152/cf6ba13a-c1ce-428e-b1cc-3a5664a49ce9")
 		(sheetname "/LETTER7/")
 		(sheetfile "letter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.75 1.41)
